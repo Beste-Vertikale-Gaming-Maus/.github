@@ -22,12 +22,12 @@ Wenn du stundenlang zockst, kennst du das Problem: Handgelenksschmerzen, steife 
 | Modell | Preisklasse | DPI | Besonderheiten | CTA-Link |  
 |--------|-------------|-----|----------------|----------|  
 | Logitech MX Vertical | Premium | 4.000 | Laser-Sensor, Wireless | [**Bei Amazon ansehen**](https://amzn.to/4hlQzFJ) |  
-| Anker Vertical Ergonomic | Budget | 1.600 | Kabelgebunden, RGB | [**Hier sparen**](https://amzn.to/3FgniyR) |  
-| Delux M618 Pro | Mittelklasse | 3.200 | 8 Tasten, RGB | [**Jetzt entdecken**](https://amzn.to/4bHrbcd) |  
-| Evoluent VerticalMouse 4 | Premium | 3.600 | Für große Hände | [**Angebot sichern**](https://amzn.to/4kFcKJV) |  
-| Zelotes C-18 | Mittelklasse | 6.400 | 12 Tasten, RGB | [**Zu Amazon**](https://amzn.to/3DsSomy) |  
-| Perixx PERIMICE-713 | Budget | 1.200 | Ambidextrous | [**Bei Amazon kaufen**](https://amzn.to/4iiUswq) |  
-| Razer Pro Click | Premium | 16.000 | Hybrid (Büro+Gaming) | [**Hier bestellen**](https://amzn.to/43ziIpy) |  
+| Anker Vertical Ergonomic | Budget | 1.600 | Kabelgebunden, RGB | [**Bei Amazon ansehen**](https://amzn.to/3FgniyR) |  
+| Delux M618 Pro | Mittelklasse | 3.200 | 8 Tasten, RGB | [**Bei Amazon ansehen**](https://amzn.to/4bHrbcd) |  
+| Evoluent VerticalMouse 4 | Premium | 3.600 | Für große Hände | [**Bei Amazon ansehen**](https://amzn.to/4kFcKJV) |  
+| Zelotes C-18 | Mittelklasse | 6.400 | 12 Tasten, RGB | [**Bei Amazon ansehen**](https://amzn.to/3DsSomy) |  
+| Perixx PERIMICE-713 | Budget | 1.200 | Ambidextrous | [**Bei Amazon ansehen**](https://amzn.to/4iiUswq) |  
+| Razer Pro Click | Premium | 16.000 | Hybrid (Büro+Gaming) | [**Bei Amazon ansehen**](https://amzn.to/43ziIpy) |  
 
 ---
 
